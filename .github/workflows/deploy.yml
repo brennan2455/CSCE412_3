@@ -11,8 +11,6 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - uses: actions/setup-node@main
-    - name: Build Website
-      run: npm run build
     - name: Set AWS Credentials
       uses: aws-actions/configure-aws-credentials@main
       with:
