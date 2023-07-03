@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <link rel="stylesheet" href="style_1.css">
+<head>
+<title>Brennan Cotten's Webpage</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<div>
+<body>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="Technical_portfolio.html">Portfolio</a></li>
+  <li><a href="Qualifications.html">Qualifications</a></li>
+  <li><a href="Services.html">Services</a></li>
+  <li><a href="About_me.html">About me</a></li>
+</ul>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><h1>Brennan Cotten's Webpage</h1></td>
+  </tr>
+  <tr>
+    <td>Computer Engineering Major '23</td>
+  </tr>
+  <tr>
+    <td>Fun fact: I lived 1/2 way across the world in singapore, and know mandarin</td>
+  </tr>
+</table>
+<p>
+	Create a captivating front page that makes users want to get <br>
+	to know more and look deeper into what makes me different and <br>
+	special for the industry. <br><br>
+</p>
+
+<p>
+	I am a computer engineer currently working on finishing my degree at <br>
+	Texas A&M university. I have been enrolled since fall of 2018 and am <br>
+	currently in my junior year by hours. I enjoy engineering because of <br>
+	the challenges and excitement it brings to life. Each day while you <br>
+	may have a certain routine you follow, chances are you won't experience <br>
+	the same problems day by day as you might with other jobs. Each day <br>
+	brings new challenges and new opportunities to learn <br><br>
+	
+	At current I have not had any internships with tech companies or <br>
+	worked for companies in a way that would involve my major. I have <br>
+	however had work experience as a Lifeguard and a Head lifeguard. <br>
+	Both of these positions involved teamwork and a great deal of team <br>
+	building to establish an understanding between the members of what <br>
+	each person should be doing in x, y or z scenarios. While both <br>
+	positions also offer some degree of patron or customer interaction, <br>
+	being a head lifeguard significantly increased the number of <br>
+	interactions I would have with the guests at the pool. I would often <br>
+	have to deal with problems that people had with the facility or any <br>
+	situations that came up at the pool, and thus developed better <br>
+	communication skills because of it. <br><br>
+	
+	In terms of qualifications, I have worked with C++, C, Java, Python, <br>
+	Verilog, now Javascript, CSS and html. It has been a while since I <br>
+	have worked with Python, the last time being 2018 and 2019, however <br>
+	it has been even longer since I have used java, the last time being <br>
+	when I was in highschool around 2015-2016. I have worked on many <br>
+	projects in classes using c++, python and Verilog, and am looking <br>
+	forward to developing projects using html, Javascript and CSS in <br>
+	the near future.<br>
+
+</p>
+</body>
+</div>
+</html>

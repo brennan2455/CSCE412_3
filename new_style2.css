@@ -1,0 +1,134 @@
+p{
+	font: normal 20px brush script mt, cursive;
+	text-align: left;
+	margin-top: 0;
+}
+h1{
+	font: normal 50px brush script mt, cursive;
+	text-align: center;	
+}
+h2{
+	font: normal 30px brush script mt, cursive;
+	text-align: left;
+	margin-bottom: 0;
+}
+h3{
+	font: normal 30px brush script mt, cursive;
+	text-align: left;
+	margin-bottom: 0;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-image: linear-gradient(#0c3ceb, #7d98fa);
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+li{
+	float: left;
+}
+li.dropdown{
+	display: inline-block;
+}
+li a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	text-decoration: none;
+}
+li a:hover, .dropbtn:hover{
+	background-color: #70ff57;
+	color: black;
+}
+.page{  
+	background-image: linear-gradient(to right, #2eb07a, #5125c2, #d073f5, #5125c2, #2eb07a);
+	margin-left: 20px; 
+	margin-right: 20px;
+	padding: 0 20px 0 20px;
+	position: relative;
+}
+.color1{
+	background-image: linear-gradient(to right, #f23333, #d1c026, #81bd28, #d1c026, #f23333);
+	padding: 0 0 20px 0;
+}
+.intro{
+	display: inline-block;
+	position: relative;
+	width: 30%;
+}
+.intro p{
+	text-align: center;
+	padding: 0 5px 5px 5px;
+	margin-left: 20px;
+}
+.intro h2{
+	text-align: center;
+}
+.about{
+	display: inline-block;
+	position: absolute;
+	padding: 0 20px 5px 0;
+}
+.about p{
+	color: black;
+	opacity: 1;
+	text-align: center;
+	margin-right: 20px;
+	padding: 0 5px 0 5px;
+}
+.about h3{
+	color: black;
+	text-align: center;
+}
+.proj{
+	display: inline-block;
+	position: relative;
+	width: 50%;
+}
+.services{
+	display: inline-block;
+	position: absolute;	
+}
+.proj p{
+	padding: 0 5px 0 5px;
+} 
+.services p{
+	margin-right: 20px;
+	padding: 0 5px 0 5px;
+}
+.qual{
+	background-image: linear-gradient(to right, #cf4ac8, #2bff39, #bd395c, #2bff39, #cf4ac8);
+	position: relative;
+	padding: 0 0 50px 5px;
+}
+.qual p{
+	text-align: center;
+	padding: 0 5px 5px 5px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.qual h3{
+	text-align: center;
+}
+.footer{
+	position: fixed;
+
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	background-image: linear-gradient(#7d98fa, #0c3ceb);
+	color: white;
+	text-align: center;
+}
+.footer p{
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 12px 5px 0 5px;
+}
